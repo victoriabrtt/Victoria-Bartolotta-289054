@@ -15,14 +15,20 @@ Los contratos fueron desarrollados en Solidity, y desplegados con Hardhat, adem�
 
 ## Instalación
 
-1. Clonar el repo
-   ```
+ 1. Obtener el proyecto
+Podés clonar el repositorio **o** descomprimir el `.zip` entregado y abrir la carpeta `Tarea_1/uyart` desde la terminal:
+
+    ``` bash
+    # Opción 1: Clonar desde GitHub (si aplica)
     git clone https://github.com/tu_usuario/Victoria-Bartolotta-289054.git
     cd Victoria-Bartolotta-289054/Tarea_1/uyart
+
+    # Opción 2: Descomprimir el .zip y moverse al proyecto
+    cd Tarea_1/uyart
     ```
 
 2. Instalar dependencias
-   ```
+   ``` 
    npm install
    ````
 
